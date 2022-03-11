@@ -1,0 +1,8 @@
+# Files
+*.pyc
+*.tar.gz
+*.DS_Store
+
+# Folders
+__pychache__/
+.vscode/
