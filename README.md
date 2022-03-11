@@ -1,8 +1,17 @@
 ![repo-size](https://img.shields.io/github/repo-size/vel-san/gitlab-migrator?label=Repo-Size&style=flat-square) [![contrib](https://img.shields.io/github/contributors/vel-san/gitlab-migrator?label=Contributors&style=flat-square)](https://github.com/Vel-San/gitlab-migrator/graphs/contributors) [![release](https://img.shields.io/github/v/release/vel-san/gitlab-migrator?label=Release&style=flat-square)](https://github.com/Vel-San/gitlab-migrator/releases)
 
+- [Gitlab Migrator](#gitlab-migrator)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+    - [Locally](#locally)
+  - [TO-DO](#to-do)
+  - [API Overriding (Dev Usage)](#api-overriding-dev-usage)
+    - [CURL](#curl)
+  - [References](#references)
+
 # Gitlab Migrator
 
-Migrate Gitlab projects (or variables) between namespaces/groups/severs using Gitlab's official API, in Python3+ // WIP
+Migrate Gitlab projects (or variables) between namespaces/groups/severs using Gitlab's official API, wrapped in Python3+
 
 ## Prerequisites
 
@@ -45,9 +54,9 @@ optional arguments:
 
 - (TBF)
 
-### API Overriding (Dev Usage)
+## API Overriding (Dev Usage)
 
-#### CURL
+### CURL
 
 You can manually import an export using the following cURL command:
 
