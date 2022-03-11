@@ -1,7 +1,7 @@
 """
-Python3 -- Transfer CI/CD variables between Gitlab repositories
-
-Might be expanded later on to be an internal BRD Gitlab API script (Object/Class based)
+Migrate Gitlab projects (or variables) 
+between namespaces/groups/severs 
+using Gitlab's official API, in Python3+
 
 LOG readability (Info, Error, Debug):
 
