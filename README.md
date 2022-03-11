@@ -1,3 +1,5 @@
+![repo-size](https://img.shields.io/github/repo-size/vel-san/gitlab-migrator?label=Repo-Size&style=flat-square) [![contrib](https://img.shields.io/github/contributors/vel-san/gitlab-migrator?label=Contributors&style=flat-square)](https://github.com/Vel-San/gitlab-migrator/graphs/contributors) [![release](https://img.shields.io/github/v/release/vel-san/gitlab-migrator?label=Release&style=flat-square)](https://github.com/Vel-San/gitlab-migrator/releases)
+
 # Gitlab Migrator
 
 Migrate Gitlab projects (or variables) between namespaces/groups/severs using Gitlab's official API, in Python3+ // WIP
@@ -39,7 +41,11 @@ optional arguments:
   -D, --debug           Output debugging messages
 ```
 
-### API Overriding (Dev Usauge)
+## TO-DO
+
+- (TBF)
+
+### API Overriding (Dev Usage)
 
 #### CURL
 
